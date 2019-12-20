@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="me.tongfei:progressbar:0.7.4" type="repository">
+    <properties maven-id="me.tongfei:progressbar:0.7.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/tongfei/progressbar/0.7.4/progressbar-0.7.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jline/jline/3.11.0/jline-3.11.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

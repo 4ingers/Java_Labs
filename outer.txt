@@ -1,0 +1,94 @@
+    <title>AaA</title>
+    <id>1</id>
+    <revision>
+      <id>32899315</id>
+      <timestamp>2005-12-27T18:46:47Z</timestamp>
+      <contributor>
+        <username>Jsmethers</username>
+        <id>614213</id>
+
+    <revision>
+      <id>32899315</id>
+      <timestamp>2005-12-27T18:46:47Z</timestamp>
+      <contributor>
+        <username>Jsmethers</username>
+        <id>614213</id>
+      </contributor>
+      <text xml:space="preserve">#REDIRECT [[AAA]]</text>
+
+        <username>Jsmethers</username>
+        <id>614213</id>
+      </contributor>
+      <text xml:space="preserve">#REDIRECT [[AAA]]</text>
+    </revision>
+  </page>
+  <page>
+    <title>AlgeriA</title>
+
+    <title>AlgeriA</title>
+    <id>5</id>
+    <revision>
+      <id>18063769</id>
+      <timestamp>2005-07-03T11:13:13Z</timestamp>
+      <contributor>
+        <username>Docu</username>
+        <id>8029</id>
+
+    <revision>
+      <id>18063769</id>
+      <timestamp>2005-07-03T11:13:13Z</timestamp>
+      <contributor>
+        <username>Docu</username>
+        <id>8029</id>
+      </contributor>
+      <minor />
+
+        <username>Docu</username>
+        <id>8029</id>
+      </contributor>
+      <minor />
+      <comment>adding cur_id=5: {{R from CamelCase}}</comment>
+      <text xml:space="preserve">#REDIRECT [[Algeria]]{{R from CamelCase}}</text>
+    </revision>
+  </page>
+
+      <minor />
+      <comment>adding cur_id=5: {{R from CamelCase}}</comment>
+      <text xml:space="preserve">#REDIRECT [[Algeria]]{{R from CamelCase}}</text>
+    </revision>
+  </page>
+  <page>
+    <title>AmericanSamoa</title>
+    <id>6</id>
+
+    <title>AmericanSamoa</title>
+    <id>6</id>
+    <revision>
+      <id>18063795</id>
+      <timestamp>2005-07-03T11:14:17Z</timestamp>
+      <contributor>
+        <username>Docu</username>
+        <id>8029</id>
+
+    <revision>
+      <id>18063795</id>
+      <timestamp>2005-07-03T11:14:17Z</timestamp>
+      <contributor>
+        <username>Docu</username>
+        <id>8029</id>
+      </contributor>
+      <minor />
+
+        <username>Docu</username>
+        <id>8029</id>
+      </contributor>
+      <minor />
+      <comment>adding to cur_id=6  {{R from CamelCase}}</comment>
+      <text xml:space="preserve">#REDIRECT [[American Samoa]]{{R from CamelCase}}</text>
+    </revision>
+
+      <minor />
+      <comment>adding to cur_id=6  {{R from CamelCase}}</comment>
+      <text xml:space="preserve">#REDIRECT [[American Samoa]]{{R from CamelCase}}</text>
+    </revision>
+
